@@ -1,0 +1,57 @@
+C:\Users\kerem\Desktop\proje denemeleri\dershane\dershane\bin\Debug\dershane.exe
+C:\Users\kerem\Desktop\proje denemeleri\dershane\dershane\bin\Debug\dershane.pdb
+C:\Users\kerem\Desktop\proje denemeleri\dershane\dershane\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kerem\Desktop\proje denemeleri\dershane\dershane\obj\x86\Debug\dershane.Form1.resources
+C:\Users\kerem\Desktop\proje denemeleri\dershane\dershane\obj\x86\Debug\dershane.Form2.resources
+C:\Users\kerem\Desktop\proje denemeleri\dershane\dershane\obj\x86\Debug\dershane.Properties.Resources.resources
+C:\Users\kerem\Desktop\proje denemeleri\dershane\dershane\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kerem\Desktop\proje denemeleri\dershane\dershane\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kerem\Desktop\proje denemeleri\dershane\dershane\obj\x86\Debug\dershane.exe
+C:\Users\kerem\Desktop\proje denemeleri\dershane\dershane\obj\x86\Debug\dershane.pdb
+C:\Users\kerem\Desktop\proje denemeleri\dershane\dershane\bin\Debug\deneme.accdb
+C:\Users\kerem\Desktop\proje denemeleri\dershane\dershane\bin\Debug\dershane.exe.config
+C:\Users\kerem\Desktop\proje denemeleri\dershane\dershane\obj\x86\Debug\dershane.Form3.resources
+C:\Users\kerem\Desktop\proje denemeleri\dershane\dershane\bin\Debug\proje.accdb
+C:\Users\kerem\Desktop\proje denemeleri\dershane\dershane\bin\Debug\dersler.accdb
+C:\Users\kerem\Desktop\proje denemeleri\dershane\dershane\bin\Debug\ders.accdb
+d:\Users\ramazan\Desktop\dershane\dershane\bin\Debug\dershane.exe.config
+d:\Users\ramazan\Desktop\dershane\dershane\obj\x86\Debug\dershane.exe
+d:\Users\ramazan\Desktop\dershane\dershane\obj\x86\Debug\dershane.pdb
+d:\Users\ramazan\Desktop\dershane\dershane\bin\Debug\dershane.exe
+d:\Users\ramazan\Desktop\dershane\dershane\bin\Debug\dershane.pdb
+d:\Users\ramazan\Desktop\dershane\dershane\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Users\ramazan\Desktop\dershane\dershane\obj\x86\Debug\dershane.Form2.resources
+d:\Users\ramazan\Desktop\dershane\dershane\obj\x86\Debug\dershane.Form1.resources
+d:\Users\ramazan\Desktop\dershane\dershane\obj\x86\Debug\dershane.Form3.resources
+d:\Users\ramazan\Desktop\dershane\dershane\obj\x86\Debug\dershane.Properties.Resources.resources
+d:\Users\ramazan\Desktop\dershane\dershane\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\Users\ramazan\Desktop\dershane\dershane\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\dershane\dershane\bin\Debug\dershane.exe.config
+C:\dershane\dershane\obj\x86\Debug\dershane.exe
+C:\dershane\dershane\obj\x86\Debug\dershane.pdb
+C:\dershane\dershane\bin\Debug\dershane.exe
+C:\dershane\dershane\bin\Debug\dershane.pdb
+C:\dershane\dershane\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dershane\dershane\obj\x86\Debug\dershane.Form1.resources
+C:\dershane\dershane\obj\x86\Debug\dershane.Form2.resources
+C:\dershane\dershane\obj\x86\Debug\dershane.Form3.resources
+C:\dershane\dershane\obj\x86\Debug\dershane.Properties.Resources.resources
+C:\dershane\dershane\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\dershane\dershane\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\dershane\dershane\obj\x86\Debug\dershane.Form4.resources
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje1_danısmanlık sistemi\dershane\dershane\bin\Debug\dershane.exe.config
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje1_danısmanlık sistemi\dershane\dershane\obj\x86\Debug\dershane.exe
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje1_danısmanlık sistemi\dershane\dershane\obj\x86\Debug\dershane.pdb
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje1_danısmanlık sistemi\dershane\dershane\bin\Debug\dershane.exe
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje1_danısmanlık sistemi\dershane\dershane\bin\Debug\dershane.pdb
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje1_danısmanlık sistemi\dershane\dershane\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje1_danısmanlık sistemi\dershane\dershane\obj\x86\Debug\dershane.Form1.resources
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje1_danısmanlık sistemi\dershane\dershane\obj\x86\Debug\dershane.Form2.resources
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje1_danısmanlık sistemi\dershane\dershane\obj\x86\Debug\dershane.Form3.resources
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje1_danısmanlık sistemi\dershane\dershane\obj\x86\Debug\dershane.Form4.resources
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje1_danısmanlık sistemi\dershane\dershane\obj\x86\Debug\dershane.Properties.Resources.resources
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje1_danısmanlık sistemi\dershane\dershane\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\ramazan\Documents\okul\3.sınıf\yazılım laboratuvarı 1\proje1_danısmanlık sistemi\dershane\dershane\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje1_danısmanlık sistemi\dershane\dershane\bin\Debug\dershane.exe.config
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje1_danısmanlık sistemi\dershane\dershane\obj\x86\Debug\dershane.exe
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje1_danısmanlık sistemi\dershane\dershane\obj\x86\Debug\dershane.pdb
